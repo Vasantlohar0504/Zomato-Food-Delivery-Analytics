@@ -119,7 +119,7 @@ streamlit run dashboard/app.py
 
 🚀 **Access the interactive dashboard here:**
 
-👉 **[Open Live Dashboard]()**
+👉 **[Open Live Dashboard](https://zomato-food-delivery-analytics.streamlit.app/)**
 
 
 ---
