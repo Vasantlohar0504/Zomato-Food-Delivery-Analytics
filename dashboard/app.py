@@ -92,8 +92,8 @@ st.subheader("📊 Key Metrics")
 st.markdown("""
 <style>
 .kpi-card {padding: 25px; border-radius: 20px; color: white; text-align: center;}
-.kpi-icon {font-size: 60px;}
-.kpi-value {font-size: 32px;}
+.kpi-icon {font-size: 40px;}
+.kpi-value {font-size: 28px;}
 .kpi1 {background: linear-gradient(135deg, #ff7e5f, #feb47b);}
 .kpi2 {background: linear-gradient(135deg, #6a11cb, #2575fc);}
 .kpi3 {background: linear-gradient(135deg, #11998e, #38ef7d);}
