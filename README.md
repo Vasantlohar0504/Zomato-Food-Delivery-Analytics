@@ -1,4 +1,4 @@
-# 🍴 Bangalore's Food Delivery Analytics Dashboard
+# 🍴 Bangalore's Zomato Food Delivery Analytics Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
