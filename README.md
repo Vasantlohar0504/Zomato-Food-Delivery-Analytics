@@ -114,6 +114,13 @@ pip install -r requirements.txt
 ```bash
 streamlit run dashboard/app.py
 ```
+---
+# 🌐 Live Dashboard
+
+🚀 **Access the interactive dashboard here:**
+
+👉 **[Open Live Dashboard]()**
+
 
 ---
 
