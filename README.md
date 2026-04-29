@@ -136,5 +136,3 @@ streamlit run dashboard/app.py
 ## 👨‍💻 Author
 
 **Vasant Lohar**
-
----
